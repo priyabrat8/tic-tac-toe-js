@@ -1,8 +1,3 @@
-//  &#xd7; x 
-//  &#48; 0 
-//  &#45; - 
-//  &#79; o 
-
 const boxes = document.querySelectorAll('.boxs');
 const  zero = document.getElementById('0');
 const  one = document.getElementById('1');
@@ -27,7 +22,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
    
@@ -41,7 +36,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
    
@@ -55,7 +50,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
    
@@ -69,7 +64,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
 
@@ -83,7 +78,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
 
@@ -97,7 +92,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
    
@@ -111,7 +106,7 @@ const winner = () => {
             win = 2;
        }
        
-       setTimeout(()=> alert(`Player ${win} Win.`),10);
+       setTimeout(()=> alert(`Player ${win} Win.`),11);
        document.location.reload();
    }
 
